@@ -1,0 +1,42 @@
+body {
+    background: rgb(67, 67, 194);
+    font: 15pt normal arial;
+}
+
+header {
+    color: azure;
+    text-align: center;
+}
+
+section {
+    background: rgb(213, 205, 205);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(34, 33, 33, 0.608);
+}
+
+section div#msg {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: xx-large;
+}
+
+section div img#img {
+    border-radius: 100%;
+    margin-left: 25%;
+
+}
+
+section div p#saudacao {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: xx-large;
+}
+
+footer {
+    color: azure;
+    text-align: center;
+    font-style: italic;
+}
